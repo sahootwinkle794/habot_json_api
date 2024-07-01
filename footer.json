@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "head": "Company",
+    "sublink": [
+      {
+        "id":1,
+        "link":"About"
+      },
+      {
+        "id":2,
+        "link":"FAQ"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "head": "Terms",
+    "sublink": [
+      {
+        "id":1,
+        "link":"Data Privacy"
+      },
+      {
+        "id":2,
+        "link":"Terms"
+      },
+      {
+        "id":3,
+        "link":"Accessibility"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "head": "Related",
+    "sublink": [
+      {
+        "id":1,
+        "link":"Find Buyer"
+      },
+      {
+        "id":2,
+        "link":"Feedback"
+      }
+    ]
+  }
+]
